@@ -1,0 +1,24 @@
+{
+  "name": "reactcompletebootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhaDroid/ReactCompleteBootCamp.git"
+  },
+  "author": "Deepanshu Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinhaDroid/ReactCompleteBootCamp/issues"
+  },
+  "homepage": "https://github.com/sinhaDroid/ReactCompleteBootCamp#readme"
+}
